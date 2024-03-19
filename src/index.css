@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  /* border-radius: 20px; */
+}
